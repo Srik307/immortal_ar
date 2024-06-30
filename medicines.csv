@@ -1,0 +1,556 @@
+Name of Medicine,Reference text,Dispensing Pack Size,Main Indications,Dose,Precaution/ Contraindication,Preferred use (OPD/ IPD),Class,disease,Symptom
+Abhayarishta,AFI,200 ml,"Arsha, Agnimandya,
+Udararoga, Vibandha",12 - 24 ml,NS,Both,A,Vatavikara,Disorders related to the Vata dosha.
+Amritarishta,AFI,200 ml,"SarvaJvara, Jirna Jvara",12 - 24 ml,NS,Both,A,Netraroga,Eye disorders.
+Aragvadharishta,AH,200ml,"Kandu, Tvak Vikara,
+Vibandha",12 - 24 ml,NS,Both,A,Malavarodha,Constipation
+Aravindasava,AFI,200 ml,"Balaroga, Balakshaya,
+Agnimandya, Aruchi",12 - 24 ml,NS,Both,A,Sutikadosha,Postpartum disorders.
+Arjunarishta/ Parthadyarishta,AFI,200 ml,"Hridroga, Hriddrava, Hrid- daurbalya, Moha,
+Murchha",12 - 24 ml,NS,Both,A,Vrana,Wounds or injuries.
+Ashokarishta,AFI,200 ml,"Asrigdara, Shveta
+Pradara,  Yoniroga",12 - 24 ml,NS,Both,A,Khalitya,Hair loss.
+"Ashvagandharisht
+a",AFI,200 ml,"Murchha, Apasmara,
+Shosha, Unmada, Karshya",12 - 24 ml,NS,Both,A,Raktasrava,Bleeding disorders.
+Balarishta,AFI,200 ml,"Daurbalya, Vataroga,
+Agnimandya, Karshya",12 - 24 ml,NS,Both,A,Svarabheda,Voice disorders.
+Chandanasava,AFI,200 ml,"Shukrameha,
+Mutrakriccha, Hridroga",12 - 24 ml,NS,Both,A,Arbuda,Tumors or growths.
+Dashamularishta,AFI,200 ml,"Vata Vyadhi, Daurbalya,
+Prasavottara roga",12 - 24 ml,NS,Both,A,Raktadushti,Blood impurities.
+Drakshasava,AFI,200 ml,"Aruchi, Hridroga, Pandu
+Duarbalya, Kshaya",12 - 24 ml,NS,Both,A,Shulahara,Pain management.
+Draksharishta,AFI,200 ml,"Agnimandya, Kasa, Shvasa, Urahkshata, Kshaya, Malavarodha,
+Daurbalya",12 - 24 ml,NS,Both,A,Pittadushti,Pitta dosha imbalance.
+Jirakadyarishta,AFI,200 ml,"Sutikaroga, Agnimandya,
+Atisara,Grahaniroga",12 - 24 ml,NS,Both,A,Vatarakta,Gout.
+Kanakasava,AFI,200 ml,"Kasa, Shvasa, Rajayakshma,
+Kshatakshina",12 - 24 ml,NS,Both,A,Shirogatavata,Headache due to Vata imbalance.
+Kumaryasava,AFI,200 ml,"Rajodushti, Krichhrartav, Paktishula,
+Parinamashula,",12 - 24 ml,NS,Both,A,Rajodosha,Menstrual disorders.
+Kutajarishta,AFI,200 ml,"Grahaniroga¸ Pravahika,
+Raktatisara, Agnimandya",12 - 24 ml,NS,Both,A,Vishuchika,Dysentery.
+Khadirarishta,AFI,200 ml,"Tvak Roga, Kushtha,
+Krimi, Arbuda",12 - 24 ml,NS,Both,A,Kastartava,Painful menstruation.
+"Lodhrasava/Rodh
+rasava",AFI,200 ml,"Prameha, Pradara, Arsha
+Garbhasayaroga,",12 - 24 ml,NS,Both,A,Garadosha,Leprosy.
+Lohasava,AFI,200 ml,"Pandu, Kamala, Shotha,
+Hridroga, Daurbalya",12 - 24 ml,NS,Both,A,Urahkshata,Chest injury.
+Mustakarishta,AFI,200 ml,"Agnimandya, Ajirna, Grahaniroga, Visuchika",12 - 24 ml,NS,Both,A,Vatavyadhi,Diseases related to Vata dosha.
+Pippalyadyasava,AFI,200 ml,"Grahaniroga, Agnimandya, Gulma,
+Udararoga,",12   -   24   ml,NS,Both,A,Dhatukshaya,Tissue depletion.
+Rohitakarishta,AFI,200 ml,"Pliha, Udararoga, Gulma,
+Kamala",12   -   24   ml,NS,Both,A,Yonishula,Pelvic pain.
+Sarasvatarishta,AFI,200 ml,"Apasmara, Manasa Dosha, Smritibhransha,
+Udvega",12   -   24   ml,NS,Both,A,Vidvibandha,Constipation due to neurological causes.
+Ushirasava,AFI,200 ml,"Pittajaroga, Daha, Trisha,
+Pittaja Netravyadhi",12   -   24   ml,NS,Both,A,Gudapaka,Anal disorders.
+Vasakasava,AFI,200 ml,"Kasa, Shvasa, Raktapitta",12   -   24   ml,NS,Both,A,Shirahshula,Headache.
+Punarnavasava,AFI,200 ml,"Shotha, Pliha- Yakridroga,
+Mutraroga",12   -   24   ml,NS,Both,A,Mahavataroga,Severe skin diseases.
+"Arka  Yavani/Arka
+Ajvayana",AFI,50 ml,"Trikshula, Agnimandya,
+Anaha,",10 -  25 ml,NS,Both,B,Hriddaha,Heartburn.
+"Arka Shatpushpa/
+Mishr eyarka",AFI,50 ml,"Mandagni, Adhamana,
+Shula, Krimi,Yonishula",10 -  25 ml,NS,Both,B,Shvitra,Leucoderma or vitiligo.
+Arka Pudina,AFI,50 ml,"Chhardi, Ajirna,
+Udarashula, Agnimandya",10 -  25 ml,NS,Both,B,Amavata,Rheumatoid arthritis.
+"Agastya Haritaki
+/ Agastya Rasayana",AFI,"100
+gm","Hikka, Kasa, Shvasa, Rasayana",5 -   15 gm,NS,Both,C,Rajodushti,Menstrual disorders.
+Bilvadi Leha,AFI,"100
+gm","Jirna Pravahika, Aruchi,
+Agnimandya, Praseka, Chhardi",10 - 50 gm,NS,Both,C,Shiroroga,Head disorders.
+Brahama Rasayana,AFI,"100
+gm","Manodaurbalya, Jara,
+Smritibhransha",10-15 gm,NS,Both,C,Dushtavrana,Infected wounds.
+Chitraka Haritaki,AFI,"100
+gm","Pinasa, Kasa, Shvasa,",10 - 50 gm,"Pregnancy, Pitta Prakriti, Paittika
+Roga",Both,C,Chhardi,Vomiting.
+"Chyavanprash
+Avaleha",AFI,"100
+gm","Kasa,Shvasa, Rasayana",12-24 gm,NS,Both,C,Nadivrana,Sinusitis.
+Drakshavaleha,AFI,"100
+gm","Pandu, Kamala, Halimaka, Daurbalya,
+Kshaya",6-12 gm,NS,Both,C,Raktarsha,Hemorrhoids.
+"Haridrakhanda
+Paka",AFI,"100
+gm","Shitapitta, Kandu
+Visphota, Dadru,Udarda, Kotha",6 gm,NS,Both,C,Indralupta,Alopecia areata.
+Kutajavaleha,AFI,"100
+gm","Atisara, Grahaniroga,
+Pravahika",6 -12 gm,NS,Both,C,Yoniroga,Gynecological disorders.
+Kalyanak Guda,AFI,"100
+gm","Udararoga, Gulma,
+Bhagandar, Arsha",6-12 gm,NS,Both,C,Balaroga,Pediatric diseases.
+Kantakaryavaleha,AFI,"100
+gm","Hikka, Kasa, Shvasa, Jirna Pratishaya,
+Parshvashula",6-12 gm,NS,Both,C,Hriddrava,Cardiac effusion.
+Kushmandaka Rasayana,AFI,"100
+gm","Kasa, Shvasa, Urahkshata, Kshaya,
+Raktapitta, Amlapitta",6-12 gm,NS,Both,C,Bhagandar,Fistula-in-ano.
+Puga Khanda/ Supari Paka,AFI,"100
+gm","Vandhyaroga, Pradara, Somaroga, Garbhadosha,
+Daurbalya",6-12 gm,NS,Both,C,Vranashotha,Swelling of wounds.
+Saubhagyashunthi Paka,AFI,"100
+gm","Prasavottara Lakshana, Sutikaroga,
+Agnimandya,",10-50 gm,NS,Both,C,Ardhavbhedaka,Migraine.
+Shatavariguda,AFI,"100
+gm","Rajodosha, Yonidosha, Asrigdara, Padadaha,
+Karshya",6 -12 gm,NS,Both,C,Granthi,Cyst or tumor.
+Vasavaleha,AFI,"100
+gm","Kasa , Shvasa, Jvara,
+Parshvashula",6-12 gm,Pregnancy,Both,C,Sandhigatavata,Osteoarthritis.
+Vyaghri Haritaki,AFI,"100
+gm","Kasa, Shvasa,
+Svarakshaya, Pratishyaya, Pinasa",6-12 gm,Pregnancy,Both,C,Agnidagdha,Burnt by digestive fire (related to digestion).
+Punarnavadi Kashayam,AFI,"100
+gm","Jvara, Kasa, Shotha",6-12 gm,NS,Both,D,Manodvega,Mental disorders.
+Vyaghryadi Kashayam,AFI,"100
+gm","Jvara, Kasa, Pinasa",6-12 gm,NS,Both,D,Pittaroga,Diseases related to Pitta dosha.
+Dashamula Kvatha Churna,AFI,"100
+gm","Jvara, Sutikadosha, Shula, Shotha, Vatavyadhi",25-50 ml,"Rasaksh aya, Bahumu
+trata",Both,D,Mutraghata,Urinary obstruction.
+"Dashmula Katutraya
+Kvatha Churna",AFI,"100
+gm","Shvasa,Kasa,Parshva
+shula, Vataroga",25-50 ml,NS,Both,D,Suryavarta,Sunstroke.
+"Dhanyapanchaka
+Kashaya Churna",AFI,"100
+gm","Amashula, Amatisara,
+Agnimandya, Aruchi",25-50 ml,NS,Both,D,Pittajanetravyadhi,Disorders of the urinary system related to Pitta dosha.
+"Guduchyadi Kashaya
+Churna",AH,100gm,"Agnimandhya, Pitta
+Dushti, Jvara",25-50 ml,NS,Both,D,Vastigatashula,Pain related to enema administration.
+"Indukantam
+Kashayam Churna",SY,"100
+gm","Vata Roga,Kshaya",25-50 ml,NS,Both,D,Shula,Abdominal pain.
+Pancha-valkala Kashaya Churna,SS,"100
+gm","Vranashotha,Upadan sha, Shveta Pradara","100 ml Kvatha for washing wound/
+vaginal douche",NS,Both,D,Mukhdaurgandhya,Foul smell from the mouth.
+Pathyadi Kvatha(Shadanga) Churna,AFI,"100
+gm","Shiroroga, Bhru- shankha-Karna Shula, Ardhavbhedaka,
+Suryavarta",25-50 ml,"Chhardi, Atisara, Ativirechanajanya Rasakshaya, Vataprakopa",Both,D,Vatajashula,Abdominal pain due to Vata dosha.
+Phalatrikadi Kvatha Churna,AFI,"100
+gm","Kamala, Pandu",25-50 ml,"Chhardi, Atisara, Ativirec hana janya Rasaksh aya, Vatapra
+kopa",Both,D,Urustambha,Thigh stiffness.
+Rasnasaptaka Kashaya Churna,AFI,"100
+gm","Janghashula, Urushula, Parshvashula, Trikshula, Prishashula",25-50 ml,"Concom itant use of Eranda Taila in
+Garbhini",Both,D,Anidra,Insomnia.
+Shadanga Kvatha Churna,AFI,"100
+gm","Trishna,Jvara",25-50 ml,"Nausea
+due to bitterness",Both,D,Anaha,Bloating.
+"Trinapanchamula
+Kvatha Churna",AFI,"100
+gm",Mutrakricchra,25-50 ml,NS,Both,D,Sandhigraha,Joint stiffness.
+Varunadi Kvatha Churna,AFI,"100
+gm","Ashmari, Mutrasthila",25-50 ml,NS,Both,D,Urdhvagaraktapitta,Upper gastrointestinal bleeding.
+"Vasaguduchyadi
+Kashaya Churna",AH,100gm,"Pandu, Raktapitta",25-50 ml,NS,Both,D,Hrid-daurbalya,Weakness of the heart.
+Amritadi Guggulu,BR,10 gm,"Vata Rakta,
+Dushtavrana, Charma Vikara","500 mg - 1
+gm","Long term
+use in pregnancy",Both,E,Sandhivedana,Joint pain.
+Gokshuradi Guggulu,AFI,10 gm,"Prameha, Mutrakricchra, Mutraghata, Ashmari,
+Pradara","500 mg  - 1
+gm",Long term use in pregnancy,Both,E,Padadaha,Foot burning sensation.
+Kanchanara Guggulu,AFI,10 gm,"Galaganda, Gandamala, Apachi, Arbuda, Granthi","500 mg  - 1
+gm","Long term
+use in pregnancy",Both,E,Amvata,Rheumatism.
+Kaishora Guggulu,AFI,10 gm,"Vatashonita, Pramehapidika, Vrana,
+Kustha",Up - 3 gm,"Long term use in
+pregnancy",Both,E,Khalli,Abscess.
+Lakshadi Guggulu,AFI,10 gm,"Asthibhagna, Asthichyuti, Asthiruja",Up - 3 gm,"Long term
+use in pregnancy",Both,E,Dagdhavrana,Burn wounds.
+Navak Guggulu,BR,10 gm,"Sthaulya, Sandhigata Vata",500 mg  - 1 gm,"Long term use in
+pregnancy",Both,E,Kshata,Injury.
+Rasna Guggulu,SS,10 gm,"Gridhrasi, Amavata",500 mg  - 1 gm,"Long term use in
+pregnancy",Both,E,Gandamala,Tonsillitis.
+Simhanada Guggulu,AFI,10 gm,"Amavata, Vatarakta, Sandhi Shula,
+Agnimandya",Up to 3 gm in divided doses,Pregnancy,Both,E,Kushtha,Skin diseases.
+"Saptavinshati
+Guggulu",AFI,10 gm,"Parshvashula,Kasa
+Shvasa, Hritshula","Up to 3 gm in divided
+doses",Pregnancy,Both,E,Manoroga,Mental disorders.
+Triphala Guggulu,AFI,10 gm,"Bhagandara, Arsha, Nadi Vrana, Gulma, Shotha",Up to 3 gm in divided doses,"Pregnancy Chronic or recurrent
+diarrhoea",Both,E,Manodosha,Psychological imbalances.
+"Trayodashanga
+Guggulu",AFI,10 gm,"Gridhrasi,
+Sandhigraha, Katigraha","Up to 3 gm in
+divided doses",Pregnancy,Both,E,Panduduarbalya,Anemia and weakness.
+Punarnava Guggulu,AFI,10 gm,"Vatarakta, Vriddhiroga, Gridhrasi,Vastigatas
+hula, Amavata",Up to 3 gm in divided doses,Pregnancy,Both,E,Atisara,Diarrhea.
+Yogaraja Guggulu,AFI,10 gm,"Amavata, Agnimandya, Sandhigatavata",Up to 3 gm in divided doses,Pregnancy,Both,E,Hikka,Hiccups.
+Brahmi Ghrita,AFI,100 gm,"Apasmara, Unmada, Smritikshaya,
+Budhidaurbalya",10 - 15 gm,NS,Both,F,Dadru,Fungal skin infections.
+Dadimadi Ghrita,AFI,100 gm,"Pandu,  Parinamshula,
+Agnimandya",10-15 gm,NS,Both,F,Arma,Filariasis.
+Guggulutiktaka Ghrita,AH,100gm,Vata Roga,5-10 gm,NS,Both,F,Tvakvikara,Skin disorders.
+Jathyadi Ghrita,AH,100gm,"Vrana, Dagdha Vrana",To be applied on affected part,NS,Both,F,Agnimandhya,Digestive weakness.
+Kalyanaka Ghrita,AFI,100 gm,"Bhutonmada, Apsmara,Balagraha, Visavikara, Garavisha,
+Smritidaurbalya",10-15 gm,NS,IPD,F,Pittajaroga,Diseases related to Pitta dosha.
+"Kshirashatpala
+Ghrita",CS,100 gm,"Gulma, Grahaniroga,
+Pliha",Up to 50 gm,NS,IPD,F,Praseka,Excessive salivation.
+Panchatikta Ghrita,AFI,100 gm,"Dushtavrana, Tvak
+Vikara",5-10 gm,NS,Both,F,Medoroga,Disorders related to fat tissue.
+Phala Ghrita,AFI,100 gm,Yonivyapat,10-15 gm,NS,IPD,F,Raktajroga,Diseases of blood.
+Shatavaryadi Ghrita,SY,100 gm,Mutraghata,10-15 gm,NS,IPD,F,Agnimandya,Digestive weakness.
+Sukumar Ghrita,AFI,100 gm,"Vidvibandha, Udararoga, Gulma,
+Yonishula,  Pliharoga",10-15 gm,NS,Both,F,Malabandha,Constipation due to fecal impaction.
+Indu kanta Ghrita,AFI,100 gm,"Shula, Udara, Vishama
+Jvara",10-15 gm,NS,IPD,F,Raktapradara,Menorrhagia (excessive menstrual bleeding).
+Tiktaka Ghrita,AH,100 gm,Tvakroga,10-15 gm,NS,Both,F,Mutrakricchra,Dysuria (painful urination).
+Triphala Ghrita,AFI,100 gm,"Kamala, Timira, Netraroga, Visarpa,
+Khalitya",10-15 gm,NS,Both,F,Rajayakshma,Tuberculosis.
+"Ajamodadi
+Churna",AFI,25 gm,"Shula, Gridhrasi,
+Amvata",3-6 gm,NS,,G,Daha,Burning sensation.
+Avipattikara Churna,AFI,50 gm,"Amlapitta,
+Vidagdhajirna",3-6 gm,NS,,G,Pliharoga,Splenic disorders.
+"Balachaturbhadra
+Churna",AFI,25 gm,"Jvara, Atisara, Bala
+Shosha",250 - 500 mg,NS,,G,Raktapitta,Bleeding disorders related to Pitta dosha.
+Bilvadi Churna,CA(U),50 gm,"Shotha,Shula Yukta
+Bradhna",3-6 gm,NS,,G,Medhya,Enhancing intellect.
+Dadimastak Churna,AFI,50 gm,"Grahaniroga, Atisara,
+Aruchi",3-6 gm,NS,,G,Vishamajvara,Irregular fever.
+"Dashanasanskara
+Churna",AFI,50 gm,"Mukha Roga, Danta
+Roga",Use as tooth powder,NS,,G,Manodaurbalya,Mental weakness.
+Eladi Churna,AFI,25 gm,"Kasa, Shvasa",2 -4 gm,NS,,G,Ojakshya,Immune deficiency.
+"Hingvashtaka
+Churna",AFI,50 gm,"Agnimandya, Shula,
+Gulma,Vataroga",2- 4 gm,NS,,G,Tvakroga,Skin diseases.
+Lavanabhaskara Churna/ Bhaskarlavan churna,AFI,50 gm,"Agnimandya, Gulma, Ajirna, Grahaniroga, Vatakaphajaroga,",3-6 gm,"Shotha, Jalodara, hyperten sion, long
+term use",,G,Mukhapaka,Oral ulcers.
+"Nisha-Amalaki
+Churna",AH,50 gm,"Prameha, Madhumeha",3-6 gm,NS,,G,Hridya,Cardiotonic.
+Pushyanuga Churna,AFI,25 gm,"Raktapradara,
+Shwetapradara, Raktarsha",2-3 gm,NS,,G,Pittajvara,Fever due to Pitta dosha.
+Panchanimba Churna,AFI,25 gm,"Kshudrakushtha, Mahakushtha,
+Raktadushti",3- 5 gm,NS,,G,Udara,Abdominal disorders.
+Sitopaladi Churna,AFI,25 gm,"Shvasa, Kasa, Kshaya,
+Urdhvaga  Raktapitta",2-3gm,NS,,G,Badhirya,Deafness.
+Talishadya Churna,AFI,25 gm,"Kasa, Shvasa,
+Pratishyaya, Jvara",2-4 gm,NS,,G,Kasa,Cough.
+Trikatu Churna,AFI,25 gm,"Arochaka, Ama, Agnimandya",1-2 gm,"Paittika Vikara or Prakriti, Raktaj Roga, pregnancy
+, long
+term use",,G,Vatroga,Diseases related to Vata dosha.
+Triphala Churna,AFI,50 gm,"Anaha, Prameha,
+Netraroga",3-6 gm,"Dehydra
+-tion",,G,Udavarta,Reverse movement of Vata.
+Jatiphaladya Churna,AFI,25 gm,"Atisara, Pravahika, Vatashlaismika Pratishyaya",1-3 gm,"Infantile, diarrhea, long term
+use",,G,Shirokampa,Tremors of the head.
+Amalaki Churna,API,50 gm,"Prameha, Raktapitta,
+Amlapitta,Daha",3-6 gm,NS,Both,H,Svarbheda,Hoarseness of voice.
+Arjuna Churna,API,50 gm,"Hridroga, Prameha",3-6 gm,NS,Both,H,Kamala,Jaundice.
+Ashvagandha Churna,API,50 gm,"Kshaya, Daurbalya, Vatroga,Klaivya",3-6 gm,"Long term use may increase blood
+pressure",Both,H,Trikshula,Abdominal colic.
+Gokshura Churna,API,50 gm,"Mutraghata,
+Mutrashmari, Vrishya, Rasayana",2-5 gm,NS,Both,H,Jirnapravahika,Chronic diarrhea.
+Guduchi Churna,API,50 gm,"Kushtha, Jvara,Vatarakta,Kam
+ala,Pandu, Prameha",3-6 gm,NS,Both,H,Budhidaurbalya,Mental weakness.
+Haritaki Churna,API,50 gm,"Vibandha, Udararoga",3-6 gm,"Debility, pregnancy, dehydration
+, Paittika Roga,",Both,H,Mutrakriccha,Difficulty in urination.
+Pippali Churna,API,25 gm,"Rasayana, Jvara, Shvasa, Kasa",1-2 gm,"Long term use in higher
+doses",Both,H,Mukharoga,Oral disorders.
+Pippali mula Churna,API,25 gm,"Udararoga, Anaha,
+Gulma, Shiroroga",500mg -1 gm,NS,Both,H,Ajirna,Indigestion.
+Punarnava Churna,API,50 gm,"Shotha, Pandu",2-3 gm,NS,Both,H,Vicharchika,Eczema.
+Shunthi Churna,API,25 gm,"Amavata, Agnimandya
+Udararoga,Shvasa",2- 3 gm,NS,Both,H,Udarashula,Abdominal pain.
+Sarasvata Churna,BR,25 gm,"Medhya, Smriti and
+Buddhi Vardhaka",1-2 gm,NS,Both,H,Keshapata,Hair fall.
+Trivritamul Churna / Trivrita Churna,API,25 gm,"Malabandha, Gulma, Udararoga",2-3gm,"Dehydrat ion, malnutrit ion,  long
+term use",Both,H,Jirnapratishaya,Chronic rhinitis.
+Vidanga Churna,API,50 gm,"Krimiroga, Medoroga",5-10  gm,"May prevent or disrupt
+conception",Both,H,Manyastambha,Muscle stiffness.
+Yashtimadhu/ Madhuyashti/ Yashti Churna,API,50 gm,"Rasayana,Kasa, Shvasa, Vranaropana, Kshaya, Svarbheda",Up to 12 gm,"Obesity, hypertensio
+n, oedema, long term use",Both,H,Amatisara,Chronic diarrhea.
+Anutaila,AFI,10 ml,"Urdhvajatrugataroga,
+Palitya","2-10 drops for  nasal
+administration",NS,Both,I,Halimaka,Cirrhosis of the liver.
+"Apamargkshara
+Taila",AFI,10 ml,"Badhirya, Karnanada,
+Karnagutha",2-5 drops in each ear,NS,Both,I,Bhru-shankha-karnashula,"Pain in the eyebrows, temples, and ears."
+Bala Taila,AFI,50 ml,"Kshata,Kshaya, Vatavyadhi, Shosha,
+Gulma",For Abhyanga,NS,Both,I,Charmkila,Skin tags.
+"Balashvagandhadi
+Taila",AH,50 ml,Balaroga,For Jwara,NS,Both,I,Raktanishthivana,Blood vessel disorders.
+Bhringaraja Tail,BR,50 ml,"Keshapata, Shiroroga, Khalitya, Indralupta","For Nasya, Shiroabhyanga,
+Kavalgraha",NS,Both,I,Shukrameha,Seminal disorders.
+"Dhanvantar Taila/Dhanvantar
+Taila Avarti",AFI,10 ml,"Vataroga, Pakshavadha, Dhatukshaya,
+Sutikaroga, Balaroga",10-30 drops for internal use,Amadosh a,Both,I,Jara,Aging.
+Eranda Taila,CD,50 ml,"Vatavikara,Gridhrasi, Vibandha, Katishula",10-30 ml,"Peri- conceptio n period, long term use in
+pregnancy",Both,I,Yonidosha,Vaginal disorders.
+Erimedadi Taila,AFI,25 ml,"Mukha Roga , Dantaroga","For Kavalgraha, Pratisarana, Nasya,
+Shirodharana",NS,Both,I,Sukradosha,Semen disorders.
+Gandharvahasta Taila,AFI,50 ml,"Vidradhi, Udara, Mahavataroga, Gulma,
+Udavarta",6-12 ml,"Ajirna, Amavast
+ha",Both,I,Avabahuka,Frozen shoulder.
+Jatyadi Taila,AFI,25 ml,"Vrana, Vranashotha","Application on wound
+or injury",NS,Both,I,Smritibhransha,Memory loss.
+Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki),AFI,50 ml,"Vatarakta, Vataroga, Sukradosha, Rajodosha, Karshya","Internal  use: 10-
+12 ml External use:
+Abhyanga and Nasya",NS,Both,I,Bhutonmada,Psychic disorders.
+"Kottamachukkadi
+Taila",AFI,50 ml,"Vataroga, Amavata,
+Angasthambha",For Abhyanga,NS,Both,I,Parshvashula,Side pain.
+Karpuradi Taila,SY,50 ml,"Khalli, Angavedana,
+Sandhivedana",For Abhyanga,NS,Both,I,Shulayuktabradhna,Stones associated with pain.
+Kasisadi Taila,AFI,25 ml,Arsha,"External use for
+Arshankura",NS,Both,I,Apasmara,Epilepsy.
+"Laghuvishagarbha
+Taila",AFI,50 ml,"Vataroga, Pakshaghat,",For Abhyanga,NS,Both,I,Kotha,Cough.
+Marichyadi Taila,AFI,25 ml,"Kandu, Vicharchika","Application on
+affected part",NS,Both,I,Udvega,Anxiety.
+Mahanarayan Taila,AFI,50 ml,"Vataroga, Pakshaghata,
+Ardita, Vandhyatva","For Abhyanga, Nasya,
+Anuvasana Vasti",NS,Both,I,Ama,Toxins or undigested food.
+"Brihanmasha Taila
+/Mahamash Taila",AFI,50 ml,"Ardita , Shirokampa, Vidradhi, Bahushosha,
+Avabahuka",For Abhyanga,NS,Both,I,Urdhvajatrugataroga,Upper respiratory tract disorders.
+Murivenna Tail,SY,50 ml,"Abhighataja Vedana
+and Vata Vikara",For Abhyanga,NS,Both,I,Pakshaghata,Hemiplegia.
+Narayana Taila,AFI,50 ml,"Vataroga, Pangu, Shirogatavata, Manyastambha,
+Hanustambha","Internal  use: 6 gm External use: f Nasya, Abhyanga and
+Anuvasana Vasti",NS,Both,I,Panguvata,Hemiplegia.
+Nalpamaradi Taila,AFI,25 ml,"Tvakroga, Kushta,
+Pama, Kandu","For  Pratisarana,
+Abhyanga",NS,Both,I,Aksepa,Seizures.
+Nirgundi Taila,BR,25 ml,"Nadivrana, Pama, Apachi, Gandamala, Galaganda","Internal  use: 15- 30 ml
+External use: Abhyanga and 2-6 drops for Nasya or
+Karnapuran",NS,Both,I,Shvasa,Asthma.
+Panchaguna Taila,AFI,50 ml,"Sandhigatvata, Karnashula,Vrana","For Abhyanga, wound dressing Karnapurana
+or Karnabindu",NS,Both,I,Pliha-yakridroga,Disorders of the spleen and liver.
+Pinda Taila,AFI,50 ml,"Vataraktaruja, Daha","Used externally for
+Abhyanga",NS,Both,I,Hanustambha,Facial paralysis.
+Prasarini Taila,AFI,50 ml,"Vataroga,Gridhrasi, Khanja, Panguvata",For Abhyanga over affected body part,"Not to be used in Guda roga, Krisha rogi, Ajirna, Vamit, Kritnasy a,
+Virikta",IPD,I,Asthiruja,Joint pain.
+Sahacharadi Taila/ Brihatsahcharadi Taila,AFI,50 ml,"Vatavyadhi, Kampa, Unmada, Pinasa, Yoniroga, Akshepa","Internal  use: 6-12 ml
+External use for Abhyanga",NS,IPD,I,Vandhyaroga,Infertility.
+Saindhavadi Taila,AFI,50 ml,"Kaphavataja Nadivrana,",For Abhyanga,NS,IPD,I,Amadosha,Impaired digestion.
+Shadabindu Taila,AFI,10 ml,"Drishtidaurbalya, Keshashata, Shiroroga,","For Nasya, Kavalgraha,
+Abhyanga, Shiroabhyanga",NS,IPD,I,Smritikshaya,Memory decline.
+"Somaraji Taila
+/Bakuchi Taila",AFI,25 ml,"Shvitra, Kushtha",For local application on affected body part,"Discontinue if excessive irritation, vescication, extensive hyperpigmentation
+appears",Both,I,Pakshaghat,Paralysis.
+Apamarga Kshar,AFI,10 gm,"Gulma, Grahani, Shvasa,
+Sharkara, Ashmari",125-500 mg,NS,Both,J,Gulma,Abdominal tumor or mass.
+Yavakshar,AFI,10 gm,"Adhamana, Anaha,
+Gulma, Mutrakricchra",500 mg - 1 gm,NS,Both,J,Vishmajvara,Poisonous fever.
+Ksharsutra,CD,"30
+Cm thread of 20
+No","Bhagandara, Arsha, Nadivrana, Charmkila",To be applied on affected part,NS,IPD,J,Arochaka,Loss of appetite.
+Dashanga Lepa,AFI,50 gm,"Visarpa, Sthanika
+Shotha, Kushtha","To apply on affected
+part",NS,Both,K,Netravrana,Eye injury.
+Shveta Malaham,AFI,25gm,Agnidagdha,"To apply on affected
+part",NS,Both,K,Pradara,Leucorrhea.
+Sarjarasa Malahara,RTSSP S,25 gm,"Dushta Vrana, Arsha,
+Gudapaka, Vidarika","To apply on affected
+part",NS,Both,K,Karnagutha,Ear infection.
+Abhayadi Modakam,SS,20 gm,Malabandha,2-4 modakam,NS,Both,L,Karnasrava,Ear discharge.
+Bilvadi Gutika,AFI,5 gm,"Vishuchika, Ajirna,
+Garadosha, Jvara",1-2 pills,NS,Both,L,Visavikara,Poisonous conditions.
+Chandraprabha Vati,AFI,5 gm,"Prameha, Mutrakricchra, Mutraghata, Ashmari, Striroga, Daurbalya,
+Pandu, Kamala",250 mg,NS,Both,L,Mahakushtha,Severe skin diseases.
+Chitrakadi Gutika,AFI,5 gm,"Agnimandya, Amadosha, Grahaniroga",250-500 mg,"Pregnancy, Uterine bleeding, Pitta Prakriti, Raktpittaj Roga, long
+term use",Both,L,Rajorodha,Menstrual blockage.
+Dhanvantar Gutika,AFI,5 gm,"Kasa, Shvasa, Hridroga,
+Yakshma,Hikka",250 -500 mg,NS,Both,L,Yonibhransha,Vaginal prolapse.
+Eladi Gutika,AFI,10 gm,"Kasa, Shvasa, Chhardi,
+Bhrama, Svarabheda, Raktanishthivana",500 mg -1 gm,NS,Both,L,Gridhrasi,Sciatica.
+Kankayan Gutika,AFI,10 gm,"Gulma, Krimi, Arsha",500 mg- 1 gm,NS,Both,L,Vranaropana,Wound healing.
+Khadiradi Gutika (Mukhroga),AFI,10 gm,"Mukhdaurgandhya, Mukhapaka, Dantaroga,
+Galaroga",1 - 2 pills,NS,Both,L,Kushta,Skin disorders.
+Kutajaghan Vati,AFI,5  gm,"Atisara, Grahani,
+Jvaratisara",250-500 mg,NS,Both,L,Palitya,Premature graying of hair.
+Lavangadi Vati,AFI,5 gm,"Kasa, Shvasa",1-2 pills,NS,Both,L,Keshashata,Baldness.
+Lahsunadi Vati,AFI,10 gm,"Visuchika, Ajirna, Atisara",500 mg -1 gm,"Hyperacidity, Peptic Ulcer, Pitta Prakriti, history of Raktapitt aja
+Vikara",Both,L,Garavisha,Poisoning by heavy metals.
+Prabhakara Vati,AFI,5 gm,"Hridroga, Daurbalya",125-250 mg,NS,Both,L,Balya,Health-promoting.
+Rajahpravartini Vati,AFI,5 gm,"Rajorodha, Kastartava",250 mg,"Pregnancy, lactation, excessive Uterine Bleeding, kidney disease, discontinue in case of severe abdominal
+pain",Both,L,Apsmara,Epilepsy.
+"Samshamani Vati
+/ Guduchighana Vati",AFI,5 gm,"Jvara, Jirna Jvara,
+Vishma Jvara, Daha",250-500 mg,NS,Both,L,Amlapitta,Hyperacidity.
+Sarpagandhaghana Vati,AFI,5 gm,"Anidra, Manodvega",250-500 mg,"Concomi tant use of medicines made of Vatsanab ha
+or Gok shuru, anti hyperten sives/ depressa nts/ psychotropic medicines postural hypotens ion,
+bradycar dia","Both
+-",L,Pratishyaya,Common cold.
+Sanjivani Vati,AFI,5 gm,"Mandagni, Ajirna, Gulma, Visuchika, Sarpadamsha",125 mg,"Pitta Prakriti individuals, hyper sensitivity to Bhallataka, patients having history of Raktapittaja Vikara,
+pregnancy, cardiac arrhythmia,
+long term use","Both
+-",L,Upadansha,Skin eruptions.
+Vettumaran Gulika,SY,5 gm,"Jvara, Chhardi,
+Mutraghata, Gulma",250-375 mg,NS,Both,L,Madhumeha,Diabetes.
+Elanirkuzambu/N alikeranjana,AFI,25 ml,"Netravrana, Arma,
+Timira, Pittaja Netraroga, Abhishyanda",1-2 drops to be instilled in eyes,NS,Both,M,Aruchi,Anorexia.
+Guduchi Sattva,AFI,25 gm,"Jvara, Vatarakta,
+Kamala, Prameha",500 mg- 1gm,NS,Both,N,Shwetapradara,White discharge (leucorrhea).
+Panchamrita Parpati,AFI,5 gm,"Grahani, Atisara, Agnimandya, Kshaya",125- 250 mg,"Peri- concepti onal period, pregnanc y, lactation period, kidney disease, small
+children",Both,O,Pakshavadha,Hemiplegia.
+"Shveta Parpati/Kshara
+Parpati",AFI,10 gm,"Ashmari, Mutrakriccha, Mutraghata",500 mg- 1 gm,NS,Both,O,Karnanada,Earache.
+Akika Pishti,AFI,5 gm,"Hriddaha, Hridroga,
+Kshaya, Shiroroga, Kasa,",125 -- 250 mg,NS,Both,P,Vataraktaruja,Gout.
+Mukta Pishti,AFI,2 gm,"Manodosha, Unmada, Hridroga",65-125 mg,NS,IPD,P,Yonivyapat,Vaginal prolapse.
+Pravala Pishti,AFI,5 gm,"Kasa, Pittaroga, Manodaurbalya,
+Ojakshya, Hridroga",250 mg,NS,Both,P,Shotha,Edema.
+Godanti Bhasma,AFI,10 gm,"Shirahshula, Pitta Jvara, Jirnajvara, Daha","500 mg- 1 gm  with ghee, sugar, warm
+milk or water",NS,Both,Q,Grahaniroga,Irritable bowel syndrome.
+"Jaharamohara
+Bhasma",AFI,5 gm,"Hridroga, Raktapitta,
+Arsha, Raktaj Pravahika",250- 500 mg,NS,Both,Q,Apachi,Herpes.
+Kapardika Bhasma,AFI,5 gm,"Parinamashula, Agnimandya, Karnasrava",250 mg,"Not to be used on change of physical
+character istics",Both,Q,Prameha,Urinary disorders.
+Mandur Bhasma,AFI,5 gm,"Kamala, Pandu",250-500 mg,NS,Both,Q,Jvara,Fever.
+Muktashukti Bhasma,AFI,5 gm,"Udarashula,Jvara, Pitta
+Jvara, Raktajroga",250-500 mg,NS,Both,Q,Balashosha,Nutritional edema.
+Shankha Bhasma,AFI,5 gm,"Agnimandya, Amlapitta, Vidagdhajirna,
+Parinamashula,",250 mg,NS,Both,Q,Bhrama,Vertigo.
+Sphatika Bhasma,AFI,5 gm,"Jvara, Kaphaja Vrana, Shvitra, Visarpa,, Raktasrava,
+Yonibhransha",125-250 mg,NS,Both,Q,Trisha,Thirst.
+"Tankana Bhasma/
+Saubhagya Bhasma",AFI,5 mg,"Kasa, Shvasa",125 - 250 mg,NS,Both,Q,Hridroga,Heart disease.
+Punarnavadi Mandura,AFI,5 gm,"Pandu, Shotha, Pliharoga",250-500 mg,NS,Both,R,Vatashonita,Gouty arthritis with bleeding.
+"Arogyavardhini
+Vati/Rasa",AFI,5 gm,"Kushta, Medoroga,
+Jvara",250-500 mg,"Old age,
+Paediatric age group, periconc eptional period, pregnancy, lactation period, kidney
+disease, karshaya",Both,S,Garbhadosha,Fetal abnormalities.
+Arsho Kuthara Rasa,BR,5 gm,Arsha,250 mg,NS,Both,S,Prasavottararoga,Post-delivery disorders.
+Brahmi Vati,AFI,5 gm,"Bhrama, Manoroga, Aptantrak, Akshepa,
+Hriddaurbalya",125-250 mg,NS,Both,S,Smritidaurbalya,Memory weakness.
+Gandhak Rasayana,YR,5 gm,"Kushta,  Raktadushti, Prameha",250-500 mg,"Hyperse nsitivity, loose
+motions",Both,S,Balagraha,Malnutrition.
+Kamadudha  Rasa,RYS,5 gm,"Amlapitta, Raktapitta, Daha, JirnaJvara,
+Pradara",125-250 mg,NS,Both,S,Visarpa,Erysipelas.
+Laghumalini Vasanta Rasa,AFI,5 gm,"Kshaya, Yakshma, Pradara, Netraroga, Arsha, JirnaJvara",125- 250 mg,"Kidney disease, long term
+use",Both,S,Drishtimandya,Visual impairment.
+Laghu Sutashekhara Rasa,AFI,5 gm,"Pittaja Shirahshula, Ardhavbhedaka, Suryavarta, Daha, Urdhvaga raktapitta",250-500mg,"Long term use, pregnancy lactation period, paediatric age
+group",Both,S,Prasavottaralakshana,Post-delivery symptoms.
+Navajivana Rasa,RTS,2 gm,"Hridya , Balya, Shulahara",625-125 mg,"Long term use, hyperten sion,
+pregnancy",Both,S,Khanja,Lameness.
+Shankha Vati,AFI,5 gm,"Grahani, Atisara, Amajirna, Visuchika, Shula",250-500 mg in divided doses,"Kidney disease, bradycar- dia, arrhy- thmia, hypotens ion,  long term use, peri- concepti onal period period,
+pregnancy, lactating mothers and debilitate
+patients",Both,S,Kandu,Itching.
+Shirahshuladi vajra Rasa,AFI,5 gm,"Shirahshula, Shiroroga","250-500 mg
+in single or divided dose","Kidney disease, long term use, peri- concepti onal period, pregnancy, lactating mothers, debilitay ed
+patients",Both,S,Daurbalya,Weakness.
+Shvasakuthara Rasa,AFI,5 gm,"Kasa, Shvasa, Vatakaphaja Roga",125-250 mg,"Kidney disease, bradycar dia, arrhy- thmia, hypotens ion,  long term adm- inist ration, periconc eptional period, pregnancy, lactating mothers, debilitate
+patients",IPD,S,Vataroga,Diseases related to Vata dosha.
+Smritisagara Rasa,AFI,5 gm,"Apasmara, Smriti
+Daurbalya",125-250 mg,NS,Both,S,Vatashlaismikapratishyaya,Allergic rhinitis due to Vata dosha.
+Tribhuvankirti Rasa,AFI,5 gm,"Jvara, Pratishyaya, Kasa",125-250 mg,"Bradycar dia, arrhythm ias, small children, Vrikka Roga, long term administ ration, periconc eptional period,
+pregnancy, debilitate patients",Both,S,Drishtidaurbalya,Weak vision.
+Vatagajankusha Rasa,BR,5 gm,"Vata Roga, Avabahuka, Urustambha, Pakshaghata,Gridhrasi",250 mg,"Long term use, Vrikka Roga, peri- concepti onal period, pregnancy, lactation and
+debilitate patients",IPD,S,Amashula,Abdominal colic due to Ama (toxins).
+Vatavidhavansan Rasa,AFI,5 gm,"Vatajashula, Sutika Vata, Grahaniroga",250 mg,NS,IPD,S,Kustha,Leprosy.
+Navayasa Lauha,AFI,5 gm,"Pandu, Kamala,
+Hridroga",250 mg,NS,Both,T,Vibandha,Constipation.
+Saptamrita Lauha,AFI,5 gm,"Timira, Drishtimandya",250 mg,NS,Both,T,Sharkara,Pemphigus.
+,,,,,,,,Karshya,Emaciation.
+,,,,,,,,Krichhrartav,Painful menstruation.
+,,,,,,,,Ashmari,Kidney stones.
+,,,,,,,,Karnashula,Ear pain.
+,,,,,,,,Udararoga,Abdominal disorders.
+,,,,,,,,Arshagarbhasayaroga,Hemorrhoids in pregnancy.
+,,,,,,,,Abhighatajavedanaandvatavikara,Nervous system disorders due to trauma.
+,,,,,,,,Pittajashirahshula,Headache due to Pitta dosha.
+,,,,,,,,Klaivya,Leprosy.
+,,,,,,,,Angasthambha,Body stiffness.
+,,,,,,,,Krimi,Worm infestations.
+,,,,,,,,Unmada,Insanity.
+,,,,,,,,Jirnajvara,Chronic fever.
+,,,,,,,,Shosha,Emaciation.
+,,,,,,,,Kshatakshina,Wasting syndrome.
+,,,,,,,,Sarvajvara,All types of fever.
+,,,,,,,,Katishula,Backache.
+,,,,,,,,Parinamashula,Colicky pain.
+,,,,,,,,Sarpadamsha,Snakebite.
+,,,,,,,,Pramehapidika,Boils in urinary tract disorders.
+,,,,,,,,Vatakaphajaroga,Diseases related to Vata and Kapha dosha.
+,,,,,,,,Janghashula,Calf pain.
+,,,,,,,,Grahaniroga¸pravahika,Irritable bowel syndrome with diarrhea.
+,,,,,,,,Svarakshaya,Voice loss.
+,,,,,,,,Pandu,Anemia.
+,,,,,,,,Mandagni,Impaired digestion.
+,,,,,,,,Trishna,Thirst.
+,,,,,,,,Sthaulya,Obesity.
+,,,,,,,,Timira,Blindness.
+,,,,,,,,Prishashula,Side pain.
+,,,,,,,,Asthibhagna,Bone fractures.
+,,,,,,,,Kasashvasa,Cough and breathlessness.
+,,,,,,,,Vidagdhajirna,Digestive disorders causing burning sensation.
+,,,,,,,,Vidradhi,Abscess.
+,,,,,,,,Dantaroga,Dental diseases.
+,,,,,,,,Amajirna,Indigestion due to Ama (toxins).
+,,,,,,,,Vandhyatva,Infertility.
+,,,,,,,,Grahani,Irritable bowel syndrome.
+,,,,,,,,Balakshaya,Loss of strength in children.
+,,,,,,,,Kshudrakushtha,Minor skin disorders.
+,,,,,,,,Sutikaroga,Postpartum disorders.
+,,,,,,,,Asthichyuti,Bone atrophy.
+,,,,,,,,Vrishya,Aphrodisiac.
+,,,,,,,,Sthanikashotha,Localized swelling.
+,,,,,,,,Sandhishula,Joint pain.
+,,,,,,,,Urushula,Thigh pain.
+,,,,,,,,Angavedana,Body pain.
+,,,,,,,,Pravahika,Dysentery.
+,,,,,,,,Kaphavatajanadivrana,Wounds with Kapha and Vata involvement.
+,,,,,,,,Pangu,Limping.
+,,,,,,,,Pama,Filariasis.
+,,,,,,,,Shvetapradara,White discharge (leucorrhea).
+,,,,,,,,Galaroga,Goiter.
+,,,,,,,,Raktajpravahika,Hemorrhagic diarrhea.
+,,,,,,,,Kampa,Tremors.
+,,,,,,,,Abhishyanda,Ophthalmia.
+,,,,,,,,Charmavikara,Skin disorders.
+,,,,,,,,Pliha,Spleen disorders.
+,,,,,,,,Udarda,Urticaria.
+,,,,,,,,Vidarika,Herpes.
+,,,,,,,,Yakshma,Tuberculosis.
+,,,,,,,,Adhamana,Flatulence.
+,,,,,,,,Moha,Delusion.
+,,,,,,,,Striroga,Gynecological disorders.
+,,,,,,,,Parinamshula,Colicky pain due to diet.
+,,,,,,,,Somaroga,Diseases related to the moon (lunar disorders).
+,,,,,,,,Manasadosha,Mental disorders.
+,,,,,,,,Kaphajavrana,Wounds with Kapha involvement.
+,,,,,,,,Agnimandyaudararoga,Digestive weakness and abdominal disorders.
+,,,,,,,,Bhagandara,Fistula-in-ano.
+,,,,,,,,Smritiandbuddhivardhaka,Enhancing memory and intellect.
+,,,,,,,,Raktatisara,Blood diarrhea.
+,,,,,,,,Krimiroga,Worm infestations.
+,,,,,,,,Hritshula,Chest pain.
+,,,,,,,,Vriddhiroga,Aging-related diseases.
+,,,,,,,,Sandhigatvata,Joint disorders due to Vata dosha.
+,,,,,,,,Sutikavata,Postpartum Vata disorders.
+,,,,,,,,Katigraha,Lumbago.
+,,,,,,,,Visuchika,Dysentery.
+,,,,,,,,Mutrashmari,Kidney stones.
+,,,,,,,,Murchha,Syncope.
+,,,,,,,,Rasayana,Rejuvenation.
+,,,,,,,,Hriddaurbalya,Heart weakness.
+,,,,,,,,Paktishula,Colicky pain due to digestion.
+,,,,,,,,Bahushosha,Severe emaciation.
+,,,,,,,,Mutrasthila,Urinary retention.
+,,,,,,,,Shitapitta,Urticaria.
+,,,,,,,,Aptantrak,Snakebite.
+,,,,,,,,Arsha,Hemorrhoids.
+,,,,,,,,Jvaratisara,Febrile dysentery.
+,,,,,,,,Ardita,Facial paralysis.
+,,,,,,,,Kanduvisphota,Itching and eruptions.
+,,,,,,,,Pinasa,Sinusitis.
+,,,,,,,,Galaganda,Goiter.
+,,,,,,,,Asrigdara,Menorrhagia.
+,,,,,,,,Pittajanetraroga,Urinary disorders due to Pitta dosha.
+,,,,,,,,Mutraroga,Urinary disorders.
+,,,,,,,,Kshaya,Debility. 
